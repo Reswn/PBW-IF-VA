@@ -4,7 +4,7 @@
 - **Kelas:** IF-V-A
 - **Program Studi:** Informatika (FTI)
 
-## Deskripsi Repositori
+## Deskripsi
 Dibuat untuk menyimpan tugas PRAKTIKUM (Pemrograman Web). Dengan pembagian Direktori terpisah, supaya memudahkan pencarian.
 
 ### Direktori
