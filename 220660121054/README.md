@@ -8,7 +8,7 @@
 Dibuat untuk menyimpan tugas PRAKTIKUM (Pemrograman Web). Dengan pembagian Direktori terpisah, supaya memudahkan pencarian.
 
 ### Direktori
-- `Praktikum #01`: Membuat Modul-HTML
+- `Praktikum01`: Membuat Modul-HTML
 
 ## Tujuan
 1. Penyimpanan dan Manajemen Kode Sumber
