@@ -1,7 +1,7 @@
 # Virzan Pasa Nugraha
 
 - **NIM:** 220660121078
-- **Kelas:** IF-V-A
+- **Kelas:** IF-VA
 - **Program Studi:** Informatika (FTI)
 
 ## Deskripsi
