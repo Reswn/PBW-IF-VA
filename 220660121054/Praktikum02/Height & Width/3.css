@@ -1,12 +1,4 @@
-/* Set height dan width beserta padding, border, dan margin */
-div {
-    height: 200px;
-    width: 200px;
-    padding: 20px;
-    border: 2px solid black;
-    margin: 10px;
-  }
-  /* Mengatur height dan width sebesar 200px */
+/* Mengatur height dan width sebesar 200px */
 div {
     height: 200px;
     width: 200px;
@@ -35,4 +27,3 @@ div {
     width: 200px;
     overflow: auto;
   }
-  
