@@ -13,6 +13,7 @@ Dokumen ini dibuat untuk menyimpan tugas **PRAKTIKUM** dalam mata kuliah Pemrogr
 - `Praktikum02`: Berisi Modul-CSS
 - `Praktikum03`: Berisi Modul-JavaScript
 - `css`
+- `Hasil`: Berisi tampilan website
 
 ## Tujuan Proyek
 1. **Penyimpanan dan Manajemen Kode Sumber:** Menyimpan semua kode sumber dalam satu tempat yang terorganisir.
