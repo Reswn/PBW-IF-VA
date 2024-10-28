@@ -115,6 +115,7 @@ footer {
     color: #777;
 }
 /* Gaya untuk mode malam */
+
 body.dark-mode {
     background-color: #333;
     color: #808080;
