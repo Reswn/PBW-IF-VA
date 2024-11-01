@@ -75,21 +75,24 @@
     <tr>
         <!-- Github状态 -->
         <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="YuZhangWang's Github stats" />
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Github stats" />
-            </a>
-        </td>
-        <!-- Github仓库内编程语言使用情况统计 -->
-        <td>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="YuZhangWang's Language stats" />
-            </a>
-            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Language stats" />
-            </a>
+           <!-- GitHub Stats for Light Mode -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adriantea1&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="adriantea1's GitHub stats" />
+</a>
+<!-- GitHub Stats for Dark Mode -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adriantea1&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="adriantea1's GitHub stats" />
+</a>
+
+<!-- Language Stats for Light Mode -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adriantea1&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="adriantea1's Language stats" />
+</a>
+<!-- Language Stats for Dark Mode -->
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=adriantea1&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="adriantea1's Language stats" />
+</a>
+
         </td>
     </tr>
 </table>
