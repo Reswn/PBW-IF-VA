@@ -19,7 +19,7 @@
 </p>
 
 </h1>
- 
+ <h2>
 | **Direktori**               | **Deskripsi**                                       |
 |-----------------------------|-----------------------------------------------------|
 | **github/workflows**         | Konfigurasi otomatisasi dan pipeline CI/CD.         |
@@ -63,6 +63,7 @@
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
 </a>
 </div>
+</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
