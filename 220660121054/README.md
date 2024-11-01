@@ -67,11 +67,7 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
-</div>
-
-## :star2: Github Status
-<div align="center">
-<table>
+  <table>
     <tr>
         <!-- Github状态 -->
         <td>
