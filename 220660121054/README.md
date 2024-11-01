@@ -62,21 +62,37 @@
 <a href="https://www.researchgate.net/profile/Virzan-Pasa-Nugraha" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
 </a>
-<hr/>
 </div>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
-<hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+## :star2: Github Status
+<div align="center">
+<table>
+    <tr>
+        <!-- Github状态 -->
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="YuZhangWang's Github stats" />
+            </a>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuZhangWang&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Github stats" />
+            </a>
+        </td>
+        <!-- Github仓库内编程语言使用情况统计 -->
+        <td>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="YuZhangWang's Language stats" />
+            </a>
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+            <img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YuZhangWang&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="YuZhangWang's Language stats" />
+            </a>
+        </td>
+    </tr>
+</table>
 </div>
+
 
