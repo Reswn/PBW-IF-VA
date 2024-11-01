@@ -92,9 +92,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height="259" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriantea1&layout=compact&langs_count=12&hide_border=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="adriantea1's Language stats" />
 </a>
-
-        </td>
-    </tr>
+</tr>
 </table>
 </div>
 
