@@ -32,7 +32,7 @@
 | **Hasil Web Portofolio**    | Tampilan akhir dari portofolio website.             |
 | **Portofolio**              | Berisi Code HTML, CSS, JS                           |
                                                                                    
-                                                                                   
+
 **Catatan**: Tabel ini membantu mempermudah navigasi ke bagian-bagian penting dari proyek.
 
  
@@ -67,6 +67,7 @@
 <a href="https://www.researchgate.net/profile/Virzan-Pasa-Nugraha" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
 </a>
+___
 </div>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
