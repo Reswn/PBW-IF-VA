@@ -19,7 +19,9 @@
         <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nodejs,python,java,php,mysql,git,linux,figma,laravel" />
     </a>
 </p>
-_____________________________________________________________________________________________
+
+
+</h1>
 
 | **Direktori**               | **Deskripsi**                                       |
 |-----------------------------|-----------------------------------------------------|
@@ -65,7 +67,7 @@ ________________________________________________________________________________
 <a href="https://www.researchgate.net/profile/Virzan-Pasa-Nugraha" target="_blank">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate" />
 </a>
-_____________________________________________________________________________________________
+
 </div>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
