@@ -53,18 +53,6 @@ Aplikasi **Todo List** ini memungkinkan pengguna untuk menambahkan, menandai seb
 - **HTML** dan **CSS** untuk tampilan antarmuka pengguna.
 - **JavaScript** untuk beberapa interaksi di frontend.
 
-## Tampilan Aplikasi
-![Preview Todo List](https://via.placeholder.com/400x300?text=Preview+Todo+List)
-
-## Cara Menjalankan Aplikasi:
-1. Pastikan Anda memiliki server PHP yang berjalan di mesin Anda (misalnya, menggunakan XAMPP, WAMP, atau MAMP).
-2. Letakkan file PHP ini di folder `htdocs` atau folder server lokal Anda.
-3. Akses aplikasi melalui browser dengan URL: `http://localhost/nama_folder/`.
-4. Anda dapat mulai menambahkan, menandai, dan menghapus tugas pada aplikasi Todo List.
-
-## License:
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 
 **Ujian Tengah Semester**  
