@@ -54,7 +54,7 @@ project-folder/
 │   │   └── script.js        # Logika aplikasi  
 │   ├── bahan/  
 │   │   └── video.mp4        # Video latar belakang  
-│   └── toggle.png           # Ikon untuk tombol toggle  
+│   └── egg.png           # Ikon untuk tombol toggle  
 ```  
 
 ---
