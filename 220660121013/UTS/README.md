@@ -13,8 +13,6 @@ Aplikasi Todo List ini dibuat menggunakan PHP dan MySQL. Aplikasi ini memungkink
 ## Pengaturan Database
 
 1. Buatlah database baru di MySQL dengan perintah berikut:
-
-```sql
 CREATE DATABASE todolist_db;
 
 USE todolist_db;
@@ -27,7 +25,7 @@ CREATE TABLE todos (
     updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 );
 
-2. Pastikan untuk menyesuaikan pengaturan koneksi database di file config/Database.php.
+2. Pastikan untuk menyesuaikan pengaturan koneksi database di file core/Database.php.
 
 ## Cara Install
 Clone atau download proyek ini.
