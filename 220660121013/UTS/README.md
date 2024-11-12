@@ -2,6 +2,9 @@
 
 Aplikasi Todo List ini dibuat menggunakan PHP dan MySQL. Aplikasi ini memungkinkan pengguna untuk membuat, mengedit, menyelesaikan, dan menghapus tugas dalam daftar.
 
+**Halaman Daftar Todo**
+![Halaman Utama](assets/img/ss-UTS.png)
+
 ## Fitur Aplikasi
 - **Tambah Tugas:** Pengguna dapat menambahkan tugas baru ke dalam daftar.
 - **Tandai Tugas Selesai:** Pengguna dapat menandai tugas yang sudah selesai.
