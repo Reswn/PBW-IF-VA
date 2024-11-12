@@ -59,12 +59,6 @@ project-folder/
 
 ---
 
-## 💻 **Teknologi yang Digunakan**  
-- **HTML5**: Membuat struktur dan elemen utama aplikasi.  
-- **CSS3**: Mengatur tampilan, animasi, dan efek visual.  
-- **JavaScript**: Mengatur logika aplikasi dan manipulasi DOM.  
-
----
 
 ## 🚀 **Cara Menjalankan Aplikasi**  
 1. **Download atau Clone Proyek**  
@@ -99,13 +93,7 @@ toggleButton.addEventListener("click", function() {
 
 ---
 
-## 📷 **Screenshot Aplikasi**  
-> **Tampilan Utama:**  
-Lihat daftar tugas dengan latar belakang video yang dinamis.  
-> **Mode Gelap Aktif:**  
-Nikmati pengalaman gelap dengan teks dan elemen yang lebih nyaman di mata.  
 
----
 
 ## 🏷️ **Lisensi**  
 &copy; 2024 Virzan Pasa Nugraha. Semua Hak Dilindungi.  
