@@ -13,8 +13,8 @@ Aplikasi ini mendukung operasi CRUD berikut:
 
 ## Screenshots
 
-![Tampilan ](/assets//img/task.png)
-![Alert ](/assets//img/alert.png)
-![Selesai ](/assets//img/selesai.png)
+![Tampilan ](/assets//img/tampilan.png)
+![Alert ](/assets//img/tambah.png)
+![Selesai ](/assets//img/berhasil.png)
 ![Edit ](/assets//img/edit.png)
-![Delete ](/assets//img/hapus.png)
+![Delete ](/assets//img/dihapus.png)
