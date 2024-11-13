@@ -6,7 +6,7 @@
   <title>To-Do List with Search</title>
 
   <!-- Link ke CSS dengan path relatif -->
-  <link rel="stylesheet" href="../assets/css/style.css"> 
+  <link rel="stylesheet" href="assets/css/style.css"> 
 </head>
 
 <body>
@@ -61,6 +61,6 @@
   </div>
 
   <!-- Pastikan jalur script.js benar dan menggunakan defer -->
-  <script src="../assets/js/script.js"></script>
+  <script src="assets/js/script.js"></script>
 </body>
 </html>
