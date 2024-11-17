@@ -74,18 +74,6 @@
    - Kamu cukup mengirimkan JSON berisi **task** yang ingin ditambahkan.
    - Server akan menambah tugas baru ke dalam database.
 
-Oh, oke, kalau kamu ingin menghapus menggunakan metode **DELETE** dengan body **raw JSON** seperti ini:
-
-```json
-{
-  "id": 93
-}
-```
-
-Maka penyesuaian untuk request DELETE di README.md akan jadi seperti berikut:
-
----
-
 ### 3. **DELETE - Menghapus Tugas**
    Untuk menghapus tugas, kamu bisa menggunakan metode **DELETE** dengan mengirimkan body berupa **raw JSON** yang berisi ID tugas.
 
@@ -111,8 +99,6 @@ Maka penyesuaian untuk request DELETE di README.md akan jadi seperti berikut:
    **Penjelasan:**
    - Pada request ini, body dikirimkan dalam format **raw JSON** dengan key `id` yang berisi ID tugas yang ingin dihapus.
    - Kamu tidak perlu menambahkan `id` di URL, cukup menggunakan body JSON seperti di atas.
-
----
 
 ### 4. **PUT - Mengupdate Status Tugas**
    Untuk memperbarui status tugas menjadi selesai atau belum selesai, gunakan metode **PUT** dengan body berupa **raw JSON**.
