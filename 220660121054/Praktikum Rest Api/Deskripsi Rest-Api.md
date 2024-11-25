@@ -60,20 +60,24 @@ Aplikasi ini didesain dengan antarmuka yang modern dan responsif untuk pengalama
 ├── core
 │   └── Database.php             # Koneksi database menggunakan PDO
 │
-├── Gambar Hasil                 # Berisi Tampilan Hasil yang telah di buat
+├── Gambar_Hasil                 # Berisi Tampilan Hasil yang telah dibuat
 │
 ├── models
 │   ├── Todo.php                 # Model Todo yang merepresentasikan setiap task
 │   └── TodoModel.php            # Model untuk operasi CRUD pada database
+│
 ├── controllers
 │   └── TodoController.php       # Controller untuk mengatur logika bisnis Todo
+│
 ├── views
 │   └── listTodos.php            # Template/view untuk menampilkan daftar Todo
+│
 └── assets
     ├── css
-    │   └── style.css            # file CSS untuk styling
+    │   └── style.css            # File CSS untuk styling
     └── js
-        └── script.js            #  file JavaScript untuk interaksi tambahan
+        └── script.js            # File JavaScript untuk interaksi tambahan
+
 
 ---
 
