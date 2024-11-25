@@ -53,30 +53,27 @@ Aplikasi ini didesain dengan antarmuka yang modern dan responsif untuk pengalama
 ---
 
 ## 📂 Struktur File  
-/todolist_project
-├── index.php                    # Entry point aplikasi
-├── api.php                      # API endpoint untuk operasi CRUD
-├── .htaccess                    # Konfigurasi untuk URL rewriting
-├── core
-│   └── Database.php             # Koneksi database menggunakan PDO
-│
-├── Gambar_Hasil                 # Berisi Tampilan Hasil yang telah dibuat
-│
-├── models
-│   ├── Todo.php                 # Model Todo yang merepresentasikan setiap task
-│   └── TodoModel.php            # Model untuk operasi CRUD pada database
-│
-├── controllers
-│   └── TodoController.php       # Controller untuk mengatur logika bisnis Todo
-│
-├── views
-│   └── listTodos.php            # Template/view untuk menampilkan daftar Todo
-│
-└── assets
-    ├── css
-    │   └── style.css            # File CSS untuk styling
-    └── js
-        └── script.js            # File JavaScript untuk interaksi tambahan
+- **index.php**: Merupakan entry point utama untuk aplikasi ini. Di sini pengguna dapat melihat daftar Todo dan melakukan interaksi.
+  
+- **api.php**: Menyediakan endpoint API untuk operasi CRUD (Create, Read, Update, Delete) pada Todo.
+
+- **.htaccess**: Digunakan untuk konfigurasi URL rewriting agar aplikasi dapat berjalan dengan rapi.
+
+- **core/Database.php**: File ini menangani koneksi ke database menggunakan PDO, memastikan aplikasi dapat berkomunikasi dengan database secara aman dan efisien.
+
+- **Gambar_Hasil**: Berisi tampilan hasil yang telah dibuat, seperti screenshot dan representasi visual dari aplikasi yang berjalan.
+
+- **models/Todo.php**: Model ini merepresentasikan setiap task (Todo) dalam aplikasi, berisi struktur dan atribut task.
+
+- **models/TodoModel.php**: Mengelola operasi CRUD pada database, termasuk menambah, mengedit, menghapus, dan mengambil data Todo.
+
+- **controllers/TodoController.php**: Controller ini mengatur logika bisnis aplikasi, termasuk memanggil model dan mengirimkan data ke views.
+
+- **views/listTodos.php**: Template/view yang menampilkan daftar Todo yang ada di aplikasi. Digunakan untuk menampilkan data yang diambil oleh controller.
+
+- **assets/css/style.css**: File CSS yang digunakan untuk memberikan style dan tata letak pada halaman aplikasi.
+
+- **assets/js/script.js**: File JavaScript untuk memberikan interaksi tambahan pada aplikasi, seperti menangani event klik dan memperbarui tampilan secara dinamis.
 
 
 ---
@@ -92,7 +89,7 @@ Aplikasi ini didesain dengan antarmuka yang modern dan responsif untuk pengalama
 
 ## 🌟 Preview  
 **Tampilan Utama**:  
-![Todo List Preview](Gambar%20Hasil/Get2.png)
+![Todo List Preview](Gambar/Get2.png)
 
 
 
