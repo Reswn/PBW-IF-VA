@@ -89,14 +89,12 @@ Aplikasi ini didesain dengan antarmuka yang modern dan responsif untuk pengalama
 
 ## 🌟 Preview  
 **GET api.php?action=list - Mendapatkan semua todo**:  
-![Todo List Preview](Gambar/GET2.png)
 ![Todo List Preview](Gambar/GET3.png)
 ![Todo List Preview](Gambar/GET4.png)
 ![Todo List Preview](Gambar/GET.png)
 
 ---
 **POST api.php?action=add - Menambahkan todo baru**:
-![Todo List Preview](Gambar/ADD.png)
 ![Todo List Preview](Gambar/ADD2.png)
 ![Todo List Preview](Gambar/ADD3.png)
 ![Todo List Preview](Gambar/ADD4.png)
