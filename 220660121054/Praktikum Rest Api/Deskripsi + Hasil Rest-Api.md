@@ -1,7 +1,4 @@
-<div style="text-align:center;">
-  <h1>🔥 🌟 𒆜 Todo List REST API 𒆜 🌟 🔥</h1>
-</div>
-
+# 🔥 🌟 𒆜 Todo List REST API 𒆜 🌟 🔥
 
 ## 📋 Deskripsi  
 Aplikasi **Todo List REST API** adalah proyek berbasis web yang memungkinkan pengguna untuk:
