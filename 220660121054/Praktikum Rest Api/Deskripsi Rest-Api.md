@@ -108,7 +108,7 @@ Aplikasi ini didesain dengan antarmuka yang modern dan responsif untuk pengalama
 ---
 **PUT api.php?action=complete - Menandai todo sebagai selesai**:
 ![Todo List Preview](Gambar/5.png)
-![Todo List Preview](Gambar/Completed.png)
+![Todo List Preview](Gambar/completed.png)
 
 ---
 **DELETE api.php?action=delete - Menghapus todo**:
