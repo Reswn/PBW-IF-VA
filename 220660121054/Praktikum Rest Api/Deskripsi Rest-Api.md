@@ -88,9 +88,28 @@ Aplikasi ini didesain dengan antarmuka yang modern dan responsif untuk pengalama
 ---
 
 ## 🌟 Preview  
-**Tampilan Utama**:  
-![Todo List Preview](Gambar/Get2.png)
+**GET api.php?action=list - Mendapatkan semua todo**:  
+![Todo List Preview](Gambar/GET2.png)
+![Todo List Preview](Gambar/GET3.png)
+![Todo List Preview](Gambar/GET4.png)
+![Todo List Preview](Gambar/GET.png)
 
+---
+**POST api.php?action=add - Menambahkan todo baru**:
+![Todo List Preview](Gambar/ADD.png)
+![Todo List Preview](Gambar/ADD2.png)
+![Todo List Preview](Gambar/ADD3.png)
+![Todo List Preview](Gambar/ADD4.png)
+
+---
+**PUT api.php?action=complete - Menandai todo sebagai selesai**:
+![Todo List Preview](Gambar/Complete1.png)
+![Todo List Preview](Gambar/Complete2.png)
+
+---
+**DELETE api.php?action=delete - Menghapus todo**:
+![Todo List Preview](Gambar/Delete1.png)
+![Todo List Preview](Gambar/Delete2.png)
 
 
 ---
