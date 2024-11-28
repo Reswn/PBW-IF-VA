@@ -87,6 +87,15 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=VirzanPasaNugraha&show_icons=true&line_height=28&hide_border=true&card_width=347&theme=dark&bg_color=000000#gh-dark-mode-only" alt="VirzanPasaNugraha's GitHub stats" />
 </a>
+<a href= "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark">
+<a href="https://github-readme-stats.vercel.app/api?username=VirzanPasaNugraha&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark">
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=VirzanPasaNugraha&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue-dark" alt="Virzan Pasa Nugraha's GitHub stats" />
+</a>
+
+<a href="https://github.com/VirzanPasaNugraha/awesome-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VirzanPasaNugraha&repo=awesome-project&theme=vue-dark" alt="Pinned Repository" />
+</a>
+
 
 
 </a>
