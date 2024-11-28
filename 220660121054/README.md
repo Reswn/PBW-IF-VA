@@ -5,8 +5,10 @@
     <a href="https://github.com/VirzanPasaNugraha.PBW-IF-VA/network/members">
         <img src="https://img.shields.io/github/forks/VirzanPasaNugraha/PBW-IF-VA?style=social" alt="Forks" />
     </a>
-    <a href="https://github.com/VirzanPasaNugraha.PBW-IF-VA/tree/220660121054">
-    <img src="https://img.shields.io/github/repo-size/220660121054/PBW-IF-VA?style=flat-square" alt="220660121054 Repository Size" />
+    <a href="https://github.com/VirzanPasaNugraha/PBW-IF-VA">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirzanPasaNugraha&repo=PBW-IF-VA&layout=compact&theme=vue-dark" alt="Top Languages in PBW-IF-VA" />
+</a>
+
 </a>
 
 </p>
