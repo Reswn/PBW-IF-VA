@@ -33,6 +33,7 @@
 | **Portofolio**              | Berisi Code HTML, CSS, JS                           |
 | **PHP**                     | Modul PHP - berisi file-file tugas                  |
 | **UTS**                     | Berisi tampilan hasil pengerjaan UTS                |
+| **Praktikum Rest Api**      | Berisi tampilan hasil pengerjaan                    |
                                                                                    
 
 **Catatan**: Tabel ini membantu mempermudah navigasi ke bagian-bagian penting dari proyek.
