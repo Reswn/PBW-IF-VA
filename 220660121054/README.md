@@ -1,11 +1,10 @@
-<p style="text-align: center;">
+<p style="text-align: right; margin-right: 20px;">
     <a href="https://visitor-badge.laobi.icu/badge?page_id=VirzanPasaNugraha.PBW-IF-VA">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=VirzanPasaNugraha.PBW-IF-VA&title=Dikunjungi" alt="Visitor Badge" />
     </a>
     <a href="https://github.com/VirzanPasaNugraha.PBW-IF-VA/network/members">
         <img src="https://img.shields.io/github/forks/VirzanPasaNugraha/PBW-IF-VA?style=social" alt="Forks" />
     </a>
-
 </p>
 
 
