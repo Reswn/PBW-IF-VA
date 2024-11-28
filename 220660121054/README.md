@@ -6,7 +6,7 @@
         <img src="https://img.shields.io/github/forks/VirzanPasaNugraha/PBW-IF-VA?style=social" alt="Forks" />
     </a>
     <a href="https://github.com/VirzanPasaNugraha.PBW-IF-VA/tree/220660121054">
-    <img src="https://img.shields.io/github/repo-size/VirzanPasaNugraha/PBW-IF-VA?style=flat-square" alt="VirzanPasaNugraha Repository Size" />
+    <img src="https://img.shields.io/github/repo-size/220660121054/PBW-IF-VA?style=flat-square" alt="220660121054 Repository Size" />
 </a>
 
 </p>
