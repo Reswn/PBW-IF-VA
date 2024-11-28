@@ -6,6 +6,11 @@
         <img src="https://img.shields.io/github/forks/VirzanPasaNugraha/PBW-IF-VA?style=social" alt="Forks" />
     </a>
 </p>
+<a href="https://github.com/VirzanPasaNugraha/PBW-IF-VA">
+    <img src="https://img.shields.io/github/repo-size/VirzanPasaNugraha/PBW-IF-VA?style=flat-square" alt="Repository Size" />
+</a>
+
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Virzan+Pasa+Nugraha!" alt="Typing SVG" />
