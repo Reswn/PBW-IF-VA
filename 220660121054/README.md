@@ -94,7 +94,7 @@
 <div align="center">
     <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d67c18181780385.65235d324f502.gif" 
          alt="GIF Preview" 
-         width="600" />
+         width="50" />
 </div>
 
 
