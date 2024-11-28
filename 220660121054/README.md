@@ -5,8 +5,8 @@
     <a href="https://github.com/VirzanPasaNugraha.PBW-IF-VA/network/members">
         <img src="https://img.shields.io/github/forks/VirzanPasaNugraha/PBW-IF-VA?style=social" alt="Forks" />
     </a>
-    <a href="https://github.com/PBW-IF-VA/220660121054/">
-    <img src="https://img.shields.io/github/repo-size/VirzanPasaNugraha/PBW-IF-VA?style=flat-square" alt="PBW-IF-VA Repository Size" />
+    <a href="https://github.com/VirzanPasaNugraha/PBW-IF-VA/tree/220660121054">
+    <img src="https://img.shields.io/github/repo-size/VirzanPasaNugraha/PBW-IF-VA?style=flat-square" alt="VirzanPasaNugraha Repository Size" />
 </a>
 
 </p>
