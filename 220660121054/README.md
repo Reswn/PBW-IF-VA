@@ -1,16 +1,16 @@
-<p style="text-align: right;">
+<p style="text-align: center;">
     <a href="https://visitor-badge.laobi.icu/badge?page_id=VirzanPasaNugraha.PBW-IF-VA">
         <img src="https://visitor-badge.laobi.icu/badge?page_id=VirzanPasaNugraha.PBW-IF-VA&title=Dikunjungi" alt="Visitor Badge" />
     </a>
     <a href="https://github.com/VirzanPasaNugraha.PBW-IF-VA/network/members">
         <img src="https://img.shields.io/github/forks/VirzanPasaNugraha/PBW-IF-VA?style=social" alt="Forks" />
     </a>
-    <a href="https://github.com/VirzanPasaNugraha/220660121054">
-    <img src="https://img.shields.io/github/repo-size/VirzanPasaNugraha/220660121054?style=flat-square" alt="Repository Size" />
+    <a href="https://github.com/VirzanPasaNugraha/PBW-IF-VA/tree/220660121054/220660121054">
+    <img src="https://img.shields.io/github/repo-size/VirzanPasaNugraha/PBW-IF-VA?style=flat-square" alt="PBW-IF-VA Repository Size" />
 </a>
 
-</a>
 </p>
+
 
 
 
