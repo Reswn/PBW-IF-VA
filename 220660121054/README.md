@@ -91,6 +91,11 @@
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=VirzanPasaNugraha&show_icons=true&line_height=28&hide_border=true&card_width=347&theme=dark&bg_color=000000#gh-dark-mode-only" alt="VirzanPasaNugraha's GitHub stats" />
 </a>
+<div align="center">
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d67c18181780385.65235d324f502.gif" 
+         alt="GIF Preview" 
+         width="600" />
+</div>
 
 
 
