@@ -88,14 +88,6 @@
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=VirzanPasaNugraha&show_icons=true&line_height=28&hide_border=true&card_width=347&theme=dark&bg_color=000000#gh-dark-mode-only" alt="VirzanPasaNugraha's GitHub stats" />
 </a>
 
-<!-- Language Stats for Light Mode -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirzanPasaNugraha&layout=compact&langs_count=12&hide_border=true&theme=default#gh-light-mode-only" alt="VirzanPasaNugraha's Language stats" />
-</a>
-<!-- Language Stats for Dark Mode -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirzanPasaNugraha&layout=compact&langs_count=12&hide_border=true&theme=dark&bg_color=000000#gh-dark-mode-only" alt="VirzanPasaNugraha's Language stats" />
-</a>
 
 </a>
 </td>
