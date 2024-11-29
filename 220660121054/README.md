@@ -96,14 +96,14 @@
         <td align="center">
             <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d67c18181780385.65235d324f502.gif" 
                  alt="GIF Preview 1" 
-                 width="150" />
-            <br />
+                 width="200" />
             <img src="https://media.giphy.com/media/IeXoLjRPLh0G2FlQ1Z/giphy.gif" 
                  alt="GIF Preview 2" 
-                 width="150" />
+                 width="200" />
         </td>
     </tr>
 </table>
+
 
 </div>
 
