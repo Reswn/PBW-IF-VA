@@ -79,30 +79,28 @@
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <table>
+ <table>
     <tr>
-        <!-- Github状态 -->
+        <!-- GitHub Stats -->
         <td>
- <!-- GitHub Stats for Light Mode -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=VirzanPasaNugraha&show_icons=true&line_height=28&hide_border=true&card_width=347&theme=default#gh-light-mode-only" alt="VirzanPasaNugraha's GitHub stats" />
-</a>
-<!-- GitHub Stats for Dark Mode -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=VirzanPasaNugraha&show_icons=true&line_height=28&hide_border=true&card_width=347&theme=dark&bg_color=000000#gh-dark-mode-only" alt="VirzanPasaNugraha's GitHub stats" />
-</a>
-<div align="center">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d67c18181780385.65235d324f502.gif" 
-         alt="GIF Preview" 
-         width="50" />
-</div>
-
-
-
-</a>
-</td>
-</tr>
+            <!-- GitHub Stats for Light Mode -->
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+                <img height="190" src="https://github-readme-stats.vercel.app/api?username=VirzanPasaNugraha&show_icons=true&line_height=28&hide_border=true&card_width=347&theme=default#gh-light-mode-only" alt="VirzanPasaNugraha's GitHub stats" />
+            </a>
+            <!-- GitHub Stats for Dark Mode -->
+            <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+                <img height="190" src="https://github-readme-stats.vercel.app/api?username=VirzanPasaNugraha&show_icons=true&line_height=28&hide_border=true&card_width=347&theme=dark&bg_color=000000#gh-dark-mode-only" alt="VirzanPasaNugraha's GitHub stats" />
+            </a>
+        </td>
+        <!-- GIF Preview -->
+        <td align="center">
+            <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d67c18181780385.65235d324f502.gif" 
+                 alt="GIF Preview" 
+                 width="150" />
+        </td>
+    </tr>
 </table>
+
 </div>
 
 <div align="center">
