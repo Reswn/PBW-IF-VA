@@ -94,7 +94,7 @@
         </td>
         <!-- GIF Preview -->
         <td align="center">
-            <img src="https://i.pinimg.com/originals/64/5b/15/645b157da0b8e691f4792b1525da7e3e.gif" 
+            <img src="https://media.giphy.com/media/IeXoLjRPLh0G2FlQ1Z/giphy.gif" 
                  alt="GIF Preview 2" 
                  width="485" />
         </td>
