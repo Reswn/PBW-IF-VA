@@ -79,7 +79,7 @@
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
- <table>
+<table>
     <tr>
         <!-- GitHub Stats -->
         <td>
@@ -95,7 +95,11 @@
         <!-- GIF Preview -->
         <td align="center">
             <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/d67c18181780385.65235d324f502.gif" 
-                 alt="GIF Preview" 
+                 alt="GIF Preview 1" 
+                 width="150" />
+            <br />
+            <img src="https://media.giphy.com/media/IeXoLjRPLh0G2FlQ1Z/giphy.gif" 
+                 alt="GIF Preview 2" 
                  width="150" />
         </td>
     </tr>
