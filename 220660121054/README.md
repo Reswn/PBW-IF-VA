@@ -96,7 +96,7 @@
         <td align="center">
             <img src="https://media.giphy.com/media/IeXoLjRPLh0G2FlQ1Z/giphy.gif" 
                  alt="GIF Preview 2" 
-                 width="480" />
+                 width="485" />
         </td>
     </tr>
 </table>
