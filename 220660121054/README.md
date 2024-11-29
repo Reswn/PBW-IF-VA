@@ -99,7 +99,7 @@
                  width="200" />
             <img src="https://media.giphy.com/media/IeXoLjRPLh0G2FlQ1Z/giphy.gif" 
                  alt="GIF Preview 2" 
-                 width="240" />
+                 width="250" />
         </td>
     </tr>
 </table>
